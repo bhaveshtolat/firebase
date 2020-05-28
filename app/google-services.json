@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "249130980383",
+    "firebase_url": "https://fir-razorpay.firebaseio.com",
+    "project_id": "fir-razorpay",
+    "storage_bucket": "fir-razorpay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249130980383:android:a180db951bed8e08b8b12a",
+        "android_client_info": {
+          "package_name": "com.example.firebaserazorpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249130980383-k9jj656tpvp91qvppj45vo6boe779s34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaserazorpay",
+            "certificate_hash": "c4d05b5f516787c3f01ebceb2f553118fe15eb20"
+          }
+        },
+        {
+          "client_id": "249130980383-r3q0ugss48kslmqqdk0bv92b18tqearr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANRBKRs4b5ch3k3QhTxurSiwo7JyM7Fzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249130980383-r3q0ugss48kslmqqdk0bv92b18tqearr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
